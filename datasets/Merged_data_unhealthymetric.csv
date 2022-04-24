@@ -1,0 +1,390 @@
+Item,Category,Serving Size (g),Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Dietary Fiber (g),Sugars (g),Protein (g),Restaurant,Meal Type,Unhealthy index
+"6"" All-American Club",Sandwich,211.0,350,13.0,6.0,0.0,55,1220,39,1.0,5,25,Subway,Mains,2
+"6"" Black Forest Ham",Sandwich,219.0,270,4.0,1.0,0.0,30,810,41,4.0,6,18,Subway,Mains,1
+"6"" Buffalo Chicken (with Grilled Chicken)",Sandwich,248.0,340,12.0,3.0,0.0,55,1360,39,2.0,4,24,Subway,Mains,1
+"6"" Chicken & Bacon Ranch (with Grilled Chicken)",Sandwich,256.0,510,27.0,10.0,0.0,100,1020,39,2.0,5,36,Subway,Mains,2
+"6"" Chicken & Bacon Ranch (with Rotisserie-Style Chicken)",Sandwich,256.0,530,29.0,11.0,0.0,105,1200,39,2.0,5,34,Subway,Mains,3
+"6"" Cold Cut Combo",Sandwich,213.0,280,10.0,3.0,0.0,45,980,38,2.0,4,17,Subway,Mains,1
+"6"" Italian BMT®",Sandwich,213.0,360,16.0,6.0,0.0,50,1160,39,2.0,4,19,Subway,Mains,2
+"6"" Meatball Marinara",Sandwich,205.0,400,17.0,7.0,1.0,40,1080,46,3.0,6,20,Subway,Mains,3
+"6"" Oven Roasted Turkey",Sandwich,218.0,260,3.0,1.0,0.0,25,790,39,4.0,6,19,Subway,Mains,1
+"6"" Roast beef",Sandwich,233.0,300,5.0,2.0,0.0,40,740,41,4.0,7,22,Subway,Mains,0
+"6"" Rotisserie-Style Chicken",Sandwich,233.0,300,6.0,2.0,0.0,50,710,39,4.0,5,23,Subway,Mains,0
+"6"" Spicy Italian",Sandwich,208.0,430,24.0,9.0,0.0,60,1280,39,2.0,4,19,Subway,Mains,2
+"6"" Steak & Cheese (with American cheese)",Sandwich,161.0,320,10.0,5.0,0.0,65,1020,37,1.0,3,25,Subway,Mains,2
+"6"" Subway Club®",Sandwich,255.0,310,5.0,2.0,0.0,45,1010,42,4.0,7,26,Subway,Mains,1
+"6"" Sweet Onion Chicken Teriyaki",Sandwich,265.0,330,4.0,1.0,0.0,50,800,52,4.0,14,24,Subway,Mains,2
+"6"" Tuna",Sandwich,223.0,430,25.0,5.0,0.0,40,670,37,1.0,4,19,Subway,Mains,1
+"6"" Veggie Delite®",Sandwich,162.0,200,2.0,0.0,0.0,0,320,39,4.0,5,8,Subway,Mains,0
+"6"" Baja Steak & Jack",Sandwich,178.0,390,18.0,6.0,0.0,75,1170,38,1.0,4,26,Subway,Mains,2
+"6"" Baja Chicken & Bacon (with Rotisserie-Style Chicken)",Sandwich,256.0,510,27.0,11.0,0.0,100,1530,39,2.0,5,32,Subway,Mains,2
+"6"" ""CALI FRESH"" Steak (with Smashed Avocado)",Sandwich,273.0,610,34.0,9.0,0.0,90,1190,44,6.0,7,33,Subway,Mains,2
+"6"" ""CALI FRESH"" Turkey (with Smashed Avocado)",Sandwich,258.0,550,30.0,8.0,0.0,60,1210,42,6.0,6,28,Subway,Mains,2
+"6"" ""CALI FRESH"" Steak (with Sliced Avocado)",Sandwich,266.0,580,32.0,9.0,0.0,90,1070,43,6.0,6,33,Subway,Mains,2
+"6"" ""CALI FRESH"" Turkey (with Sliced Avocado)",Sandwich,251.0,520,28.0,7.0,0.0,60,1080,42,6.0,6,28,Subway,Mains,2
+"6"" Big Hot Pastrami",Sandwich,213.0,470,26.0,9.0,0.0,80,1780,38,1.0,4,27,Subway,Mains,2
+"6"" B.L.T",Sandwich,151.0,330,14.0,5.0,0.0,35,700,37,1.0,4,17,Subway,Mains,1
+"6"" Chicken Pizziola (with Grilled Chicken)",Sandwich,231.0,400,15.0,6.0,0.0,80,1100,40,2.0,6,31,Subway,Mains,2
+"6"" Grilled Chicken",Sandwich,233.0,280,4.0,1.0,0.0,50,530,40,4.0,6,24,Subway,Mains,0
+"6"" Oven Roasted Chicken",Sandwich,233.0,280,5.0,1.0,0.0,45,620,41,4.0,6,21,Subway,Mains,0
+"6"" Oven Roasted Turkey and Ham",Sandwich,219.0,270,4.0,1.0,0.0,25,800,40,4.0,6,19,Subway,Mains,1
+"6"" Pizza Sub",Sandwich,165.0,420,23.0,10.0,1.0,60,1480,41,0.0,5,18,Subway,Mains,3
+"6"" Steak Club",Sandwich,225.0,470,26.0,8.0,0.0,75,1270,38,1.0,4,28,Subway,Mains,2
+"6"" Turkey Italiano",Sandwich,192.0,460,27.0,9.0,0.0,60,1530,38,1.0,4,22,Subway,Mains,2
+"6"" Veggie Patty",Sandwich,247.0,380,11.0,1.0,0.0,0,640,56,12.0,7,14,Subway,Mains,0
+Veggie Delite®,Kids' Mini Sub,108.0,140,2.0,0.0,0.0,0,210,26,3.0,3,5,Subway,Mains,0
+Black Forest Ham,Kids' Mini Sub,137.0,170,3.0,1.0,0.0,15,460,27,3.0,4,10,Subway,Mains,0
+Oven Roasted Turkey,Kids' Mini Sub,137.0,160,2.0,0.0,0.0,10,450,26,3.0,4,11,Subway,Mains,0
+Roast Beef,Kids' Mini Sub,146.0,190,3.0,1.0,0.0,20,440,27,3.0,4,13,Subway,Mains,0
+All-American Club on Spinach Wrap,Wrap,348.0,630,27.0,11.0,0.0,95,2320,57,3.0,6,42,Subway,Mains,2
+Black Forest Ham on Tomato Basil Wrap,Wrap,307.0,440,12.0,5.0,0.0,55,1720,57,4.0,6,29,Subway,Mains,2
+Buffalo Chicken Wrap (with Grilled Chicken) on Tomato Basil Wrap,Wrap,356.0,550,20.0,6.0,0.0,110,1950,55,4.0,6,42,Subway,Mains,3
+Chicken & Bacon Ranch (with Grilled Chicken) on Spinach Wrap,Wrap,400.0,810,41.0,16.0,0.0,170,1830,56,4.0,6,59,Subway,Mains,3
+Chicken & Bacon Ranch (with Rotiserrie-Style Chicken) on Spinach Wrap,Wrap,378.0,840,45.0,17.0,0.0,170,2200,55,4.0,5,55,Subway,Mains,3
+Cold Cut Combo on Tomato Basil Wrap,Wrap,314.0,530,24.0,7.0,0.0,95,1970,54,3.0,5,27,Subway,Mains,2
+Italian BMT® on Tomato Basil Wrap,Wrap,314.0,680,37.0,14.0,0.0,100,2330,57,4.0,5,32,Subway,Mains,2
+Meatball Marinara on Tomato Basil Wrap,Wrap,381.0,770,39.0,16.0,2.0,75,2160,74,8.0,12,34,Subway,Mains,4
+Oven Roasted Turkey on Spinach Wrap,Wrap,307.0,430,10.0,4.0,0.0,50,1740,53,3.0,4,32,Subway,Mains,1
+Roast Beef on Tomato Basil Wrap,Wrap,335.0,500,14.0,5.0,0.0,75,1580,57,4.0,8,38,Subway,Mains,2
+Rotisserie-Style Chicken on Spinach Wrap,Wrap,335.0,500,16.0,6.0,0.0,105,1580,53,4.0,4,39,Subway,Mains,3
+Spicy Italian on Tomato Basil Wrap,Wrap,304.0,810,52.0,20.0,1.0,125,2580,57,4.0,4,31,Subway,Mains,4
+Steak & Cheese on Spinach Wrap,Wrap,269.0,570,20.0,9.0,0.0,120,1900,54,3.0,4,44,Subway,Mains,3
+Subway Club® on Tomato Basil Wrap,Wrap,378.0,530,14.0,5.0,0.0,90,2130,58,4.0,7,45,Subway,Mains,2
+Sweet Onion Chicken Teriyaki on Spinach Wrap,Wrap,381.0,540,12.0,5.0,0.0,95,1610,71,4.0,15,42,Subway,Mains,3
+Tuna on Spinach Wrap,Wrap,335.0,820,54.0,11.0,1.0,75,1410,52,3.0,3,33,Subway,Mains,3
+Veggie Delite® on Tomato Basil Wrap,Wrap,285.0,330,8.0,4.0,0.0,0,750,56,5.0,6,10,Subway,Mains,0
+Baja Steak & Jack on Tomato Basil Wrap,Wrap,286.0,640,28.0,11.0,1.0,130,2000,55,3.0,5,44,Subway,Mains,4
+Baja Chicken & Bacon (with Rotisserie-Style Chicken),Wrap,379.0,820,44.0,17.0,1.0,170,2470,56,4.0,6,54,Subway,Mains,4
+"""CALI FRESH"" Steak on Spinach Wrap (with Sliced Avocado)",Wrap,382.0,880,48.0,16.0,1.0,165,2160,58,5.0,6,56,Subway,Mains,4
+"""CALI FRESH"" Turkey on Spinach Wrap (with Smashed Avocado)",Wrap,360.0,790,44.0,13.0,0.0,100,2330,56,5.0,5,46,Subway,Mains,2
+"""CALI FRESH"" Steak on Spinach Wrap (with Smashed Avocado)",Wrap,389.0,910,51.0,17.0,1.0,165,2290,59,6.0,6,56,Subway,Mains,4
+"""CALI FRESH"" Turkey on Spinach Wrap(with Sliced Avocado)",Wrap,353.0,770,42.0,13.0,0.0,100,2210,56,5.0,5,45,Subway,Mains,2
+Big Hot Pastrami on Tomato Basil Wrap,Wrap,363.0,860,53.0,17.0,0.0,150,3070,55,4.0,6,46,Subway,Mains,3
+B.L.T on Tomato Basil Wrap,Wrap,218.0,620,33.0,13.0,0.0,65,1420,53,3.0,6,29,Subway,Mains,2
+Chicken Pizzola (with Grilled Chicken) on Tomato Basil Wrap,Wrap,258.0,590,28.0,11.0,0.0,100,1650,53,3.0,4,35,Subway,Mains,2
+Grilled Chicken on Spinach Wrap,Wrap,335.0,470,11.0,5.0,0.0,100,1210,53,4.0,4,42,Subway,Mains,2
+Oven Roasted Chicken on Spinach Wrap,Wrap,335.0,470,13.0,5.0,0.0,90,1390,55,4.0,5,35,Subway,Mains,2
+Oven Roasted Turkey & Ham on Spinach Wrap,Wrap,307.0,430,11.0,5.0,0.0,50,1760,55,3.0,5,31,Subway,Mains,2
+Pizza Sub on Tomato Basil Wrap,Wrap,238.0,720,44.0,18.0,1.0,100,2440,58,2.0,6,26,Subway,Mains,3
+Steak Club on Tomato Basil Wrap,Wrap,341.0,780,41.0,14.0,0.0,135,2280,55,3.0,6,49,Subway,Mains,3
+Turkey Italiano on Tomato Basil Wrap,Wrap,293.0,780,47.0,17.0,1.0,110,2700,55,3.0,5,35,Subway,Mains,4
+Veggie Patty on Spinach Wrap,Wrap,363.0,650,26.0,5.0,0.0,0,1430,86,20.0,8,21,Subway,Mains,2
+"6"" All-American Club ",Fresh Melt,205.0,420,20.0,10.0,0.0,75,1640,39,0.5,5,28,Subway,Mains,2
+"6"" Black Forest Ham on Artisan Italian ",Fresh Melt,204.0,450,25.0,10.0,1.0,70,1550,40,0.5,5,23,Subway,Mains,3
+"6"" Buffalo Chicken (with Grilled Chicken)",Fresh Melt,246.0,450,22.0,9.0,1.0,90,1990,40,1.0,5,30,Subway,Mains,3
+"6"" Chicken & Bacon Ranch (with Grilled Chicken) ",Fresh Melt,277.0,560,29.0,12.0,1.0,105,1220,39,2.0,5,40,Subway,Mains,4
+"6"" Chicken & Bacon Ranch (with Rotisserie-Style Chicken)",Fresh Melt,277.0,570,32.0,12.0,1.0,110,1400,39,2.0,5,38,Subway,Mains,4
+"6"" Cold Cut Combo",Fresh Melt,218.0,400,20.0,9.0,0.0,80,1610,39,1.0,5,22,Subway,Mains,2
+"6"" Italian B.M.T.®",Fresh Melt,218.0,470,26.0,12.0,1.0,85,1790,41,1.0,5,25,Subway,Mains,3
+"6"" Meatball Marinara",Fresh Melt,237.0,510,27.0,13.0,2.0,70,1690,49,3.0,8,25,Subway,Mains,3
+"6"" Oven Roasted Turkey",Fresh Melt,217.0,380,13.0,7.0,0.0,55,1420,41,4.0,6,25,Subway,Mains,2
+"6"" Spicy Italian",Fresh Melt,207.0,540,34.0,15.0,1.0,95,1910,40,1.0,4,24,Subway,Mains,3
+"6"" Steak & Cheese (with American cheese and Mayo)",Fresh Melt,198.0,500,28.0,11.0,1.0,95,1500,39,1.0,4,29,Subway,Mains,3
+"6"" Sweet Onion Chicken Teriyaki",Fresh Melt,264.0,450,14.0,7.0,0.0,80,1430,53,4.0,15,30,Subway,Mains,3
+"6"" Veggie Delite® (on Artisan Italian with Mayo)",Fresh Melt,169.0,390,23.0,9.0,1.0,40,1060,38,1.0,4,13,Subway,Mains,3
+"6"" Baja Steak & Jack",Fresh Melt,206.0,490,26.0,12.0,1.0,100,1650,39,1.0,4,31,Subway,Mains,3
+"6"" Baja Chicken & Bacon (with Rotisserie-Style Chicken)",Fresh Melt,249.0,560,32.0,13.0,1.0,115,1760,40,1.0,5,35,Subway,Mains,4
+"6"" Big Hot Pastrami",Fresh Melt,235.0,550,33.0,13.0,0.0,100,2200,39,1.0,4,31,Subway,Mains,2
+"6"" Oven Roasted Chicken",Fresh Melt,232.0,400,15.0,8.0,0.0,75,1250,42,4.0,7,26,Subway,Mains,2
+All-American Club,Salad,370.0,230,12.0,5.0,0.0,55,940,12,4.0,6,20,Subway,Sides,2
+Black Forest Ham,Salad,344.0,120,3.0,1.0,0.0,30,570,12,4.0,6,13,Subway,Sides,0
+Buffalo Chicken (with Grilled Chicken),Salad,414.0,300,19.0,4.0,0.0,65,1180,13,5.0,7,20,Subway,Sides,1
+Chicken & Bacon Ranch (with Grilled Chicken and Peppercorn Ranch Sauce),Salad,430.0,470,34.0,11.0,1.0,110,840,13,4.0,7,32,Subway,Sides,4
+Chicken & Bacon Ranch (with Rotisserie-Style Chicken and Peppercorn Ranch Sauce),Salad,430.0,490,36.0,12.0,1.0,110,1020,13,5.0,7,30,Subway,Sides,4
+Cold Cut Combo,Salad,351.0,160,9.0,2.0,0.0,45,700,10,4.0,5,12,Subway,Sides,0
+Italian B.M.T.®,Salad,351.0,240,15.0,5.0,0.0,50,880,12,4.0,5,14,Subway,Sides,2
+Meatball Marinara,Salad,426.0,290,16.0,6.0,1.0,40,780,22,7.0,9,15,Subway,Sides,4
+Oven Roasted Turkey,Salad,344.0,110,2.0,0.0,0.0,25,550,10,4.0,5,14,Subway,Sides,0
+Roast Beef,Salad,358.0,150,4.0,1.0,0.0,40,500,12,4.0,6,17,Subway,Sides,0
+Rotisserie-Style Chicken,Salad,358.0,150,5.0,2.0,0.0,50,470,10,4.0,5,18,Subway,Sides,0
+Spicy Italian,Salad,347.0,310,23.0,9.0,0.0,60,1000,12,4.0,5,14,Subway,Sides,2
+Steak & Cheese,Salad,370.0,210,9.0,4.0,0.0,65,740,12,4.0,6,22,Subway,Sides,0
+Subway Club® (no olives),Salad,374.0,150,4.0,1.0,0.0,45,730,12,4.0,6,21,Subway,Sides,0
+Sweet Onion Chicken Teriyaki,Salad,408.0,210,3.0,1.0,0.0,50,630,30,4.0,21,19,Subway,Sides,1
+Tuna,Salad,362.0,310,24.0,4.0,0.0,40,390,10,4.0,5,15,Subway,Sides,0
+Veggie Delite®,Salad,287.0,50,1.0,0.0,0.0,0,75,9,4.0,5,3,Subway,Sides,0
+Baja Steak & Jack,Salad,400.0,350,24.0,7.0,1.0,80,1020,14,5.0,7,23,Subway,Sides,3
+Baja Chicken & Bacon (with Rotisserie-Style Chicken),Salad,430.0,460,34.0,11.0,1.0,110,1370,14,4.0,7,28,Subway,Sides,4
+"""CALI FRESH"" Steak (with Smashed Avocado)",Salad,425.0,360,22.0,7.0,0.0,85,880,15,6.0,7,28,Subway,Sides,2
+"""CALI FRESH"" Turkey (with Smashed Avocado)",Salad,410.0,300,18.0,6.0,0.0,50,900,14,6.0,6,23,Subway,Sides,2
+"""CALI FRESH"" Steak (with Sliced Avocado)",Salad,418.0,330,19.0,7.0,0.0,85,760,15,6.0,6,28,Subway,Sides,1
+"""CALI FRESH"" Turkey (with Sliced Avocado)",Salad,403.0,280,16.0,5.0,0.0,50,770,13,6.0,6,23,Subway,Sides,2
+Big Hot Pastrami,Salad,450.0,370,26.0,8.0,0.0,80,1670,14,5.0,7,24,Subway,Sides,2
+B.L.T.,Salad,317.0,210,14.0,5.0,0.0,35,420,11,4.0,6,13,Subway,Sides,1
+Chicken Pizziola (with Grilled Chicken),Salad,419.0,280,14.0,6.0,0.0,80,820,15,5.0,8,27,Subway,Sides,2
+Grilled Chicken,Salad,358.0,130,3.0,1.0,0.0,50,280,10,4.0,5,19,Subway,Sides,0
+Oven Roasted Chicken,Salad,358.0,130,4.0,1.0,0.0,45,370,11,4.0,6,16,Subway,Sides,0
+Oven Roasted Turkey & Ham,Salad,344.0,110,3.0,1.0,0.0,25,560,11,4.0,5,14,Subway,Sides,0
+Pizza Sub,Salad,374.0,310,23.0,10.0,1.0,60,1200,16,4.0,8,14,Subway,Sides,3
+Steak Club,Salad,377.0,260,14.0,6.0,0.0,70,920,12,4.0,6,24,Subway,Sides,2
+Turkey Italiano,Salad,380.0,350,26.0,9.0,0.0,60,1260,13,4.0,6,17,Subway,Sides,2
+Veggie Patty,Salad,372.0,220,10.0,1.0,0.0,0,390,26,12.0,7,9,Subway,Sides,0
+All-American Club,Protein Bowl,359.0,430,25.0,11.0,0.0,115,1550,12,3.0,7,40,Subway,Mains,3
+Black Forest Ham,Protein Bowl,302.0,170,5.0,2.0,0.0,55,1050,12,3.0,6,21,Subway,Mains,1
+Buffalo Chicken,Protein Bowl,414.0,380,21.0,4.0,0.0,115,2080,13,4.0,7,36,Subway,Mains,2
+Chicken & Bacon Ranch (with Grilled Chicken),Protein Bowl,444.0,730,51.0,20.0,1.0,205,1380,13,3.0,8,58,Subway,Mains,4
+Chicken & Bacon Ranch (with Rotisserie-Style Chicken),Protein Bowl,444.0,760,55.0,21.0,1.0,205,1750,13,4.0,7,55,Subway,Mains,4
+Cold Cut Combo,Protein Bowl,316.0,260,16.0,4.0,0.0,95,1310,9,3.0,5,20,Subway,Mains,1
+Italian B.M.T.®,Protein Bowl,316.0,410,29.0,11.0,0.0,100,1670,13,3.0,5,25,Subway,Mains,2
+Meatball Marinara,Protein Bowl,469.0,520,32.0,13.0,2.0,80,1520,33,8.0,14,28,Subway,Mains,4
+Oven Roasted Turkey,Protein Bowl,302.0,150,3.0,1.0,0.0,50,1020,8,3.0,5,25,Subway,Mains,1
+Roast Beef,Protein Bowl,330.0,230,7.0,2.0,0.0,75,920,12,3.0,7,30,Subway,Mains,1
+Rotisserie-Style Chicken,Protein Bowl,325.0,220,8.0,3.0,0.0,105,810,8,3.0,4,31,Subway,Mains,2
+Spicy Italian,Protein Bowl,306.0,550,45.0,17.0,1.0,125,1910,12,3.0,4,24,Subway,Mains,4
+Steak & Cheese,Protein Bowl,358.0,380,19.0,9.0,1.0,140,1150,12,4.0,5,42,Subway,Mains,4
+Subway Club®,Protein Bowl,367.0,250,6.0,2.0,0.0,90,1410,12,2.0,7,37,Subway,Mains,1
+Sweet Onion Chicken Teriyaki,Protein Bowl,394.0,300,5.0,2.0,0.0,95,1020,33,3.0,22,34,Subway,Mains,2
+Tuna,Protein Bowl,337.0,550,47.0,8.0,1.0,75,690,8,3.0,4,26,Subway,Mains,2
+Baja Steak & Jack,Protein Bowl,386.0,500,33.0,12.0,1.0,150,1700,14,3.0,7,41,Subway,Mains,4
+Baja Chicken & Bacon (with Rotisserie-Style Chicken),Protein Bowl,445.0,720,52.0,20.0,1.0,205,2410,14,3.0,8,52,Subway,Mains,4
+"""CALI FRESH"" Steak (with Sliced Avocado)",Protein Bowl,422.0,560,33.0,13.0,0.0,165,1420,16,5.0,7,51,Subway,Mains,3
+"""CALI FRESH"" Turkey (with Sliced Avocado)",Protein Bowl,394.0,440,26.0,10.0,0.0,105,1470,13,4.0,6,41,Subway,Mains,3
+"""CALI FRESH"" Steak (with Smashed Avocado)",Protein Bowl,429.0,580,36.0,14.0,0.0,165,1550,16,5.0,7,52,Subway,Mains,3
+"""CALI FRESH"" Turkey (with Smashed Avocado)",Protein Bowl,401.0,470,29.0,11.0,0.0,105,1590,13,5.0,7,41,Subway,Mains,3
+Big Hot Pastrami,Protein Bowl,490.0,680,52.0,18.0,0.0,165,2670,15,5.0,7,45,Subway,Mains,3
+B.L.T.,Protein Bowl,248.0,360,26.0,9.0,0.0,65,760,10,3.0,6,22,Subway,Mains,1
+Chicken Pizziola (with Grilled Chicken),Protein Bowl,451.0,500,28.0,12.0,1.0,165,1490,17,4.0,10,49,Subway,Mains,5
+Grilled Chicken,Protein Bowl,330.0,200,4.0,2.0,0.0,100,480,9,3.0,5,35,Subway,Mains,0
+Oven Roasted Chicken,Protein Bowl,330.0,200,6.0,2.0,0.0,90,660,11,3.0,6,27,Subway,Mains,0
+Oven Roasted Turkey & Ham,Protein Bowl,302.0,160,4.0,1.0,0.0,50,1040,10,3.0,6,23,Subway,Mains,1
+Pizza Sub,Protein Bowl,372.0,610,48.0,22.0,1.0,135,1830,18,5.0,8,30,Subway,Mains,4
+Steak Club,Protein Bowl,346.0,450,28.0,12.0,0.0,130,1280,12,3.0,6,41,Subway,Mains,3
+Turkey Italiano,Protein Bowl,361.0,580,45.0,17.0,1.0,125,2000,13,3.0,5,34,Subway,Mains,4
+Veggie Patty,Protein Bowl,358.0,380,19.0,2.0,0.0,0,700,41,19.0,8,14,Subway,Mains,0
+"6"" Black Forest Ham, Egg White & Cheese Flatbread",Breakfast,203.0,390,12.0,4.0,0.0,25,1110,45,2.0,4,23,Subway,Breakfast,1
+"6"" Egg White & Cheese Flatbread",Breakfast,174.0,350,11.0,4.0,0.0,10,870,44,2.0,3,18,Subway,Breakfast,1
+"6"" Bacon, Egg White & Cheese Flatbread",Breakfast,189.0,430,17.0,6.0,0.0,30,1040,44,2.0,4,23,Subway,Breakfast,2
+"6"" Steak, Egg White & Cheese Flatbread",Breakfast,217.0,420,14.0,5.0,0.0,45,1140,45,2.0,3,28,Subway,Breakfast,2
+"6"" Black Forest Ham, Egg & Cheese Flatbread",Breakfast,203.0,480,23.0,6.0,0.0,265,1040,44,2.0,3,23,Subway,Breakfast,3
+"6"" Egg & Cheese Flatbread",Breakfast,174.0,450,22.0,6.0,0.0,250,790,43,1.0,3,19,Subway,Breakfast,3
+"6"" Bacon, Egg & Cheese Flatbread",Breakfast,189.0,530,28.0,8.0,0.0,270,970,44,1.0,3,24,Subway,Breakfast,3
+"6"" Steak, Egg & Cheese Flatbread",Breakfast,217.0,520,25.0,7.0,0.0,285,1070,44,2.0,3,29,Subway,Breakfast,3
+Cheese,Flatizza ®,150.0,410,17.0,9.0,0.0,40,760,45,2.0,4,18,Subway,Mains,1
+Pepperoni,Flatizza ®,162.0,460,22.0,11.0,1.0,55,960,45,2.0,4,21,Subway,Mains,3
+Sausage,Flatizza ®,180.0,520,27.0,13.0,1.0,70,1080,46,2.0,4,22,Subway,Mains,3
+Spicy Italian,Flatizza ®,174.0,510,26.0,12.0,1.0,65,1130,46,2.0,4,23,Subway,Mains,3
+Veggie,Flatizza ®,225.0,430,17.0,9.0,0.0,40,770,49,3.0,6,19,Subway,Mains,2
+Cheese,Pizza,292.0,720,24.0,9.0,0.0,50,1360,94,4.0,8,28,Subway,Mains,2
+Bacon,Pizza,321.0,840,34.0,13.0,0.0,75,1620,95,4.0,9,36,Subway,Mains,3
+Meatball,Pizza,343.0,860,35.0,14.0,1.0,80,1660,98,5.0,8,37,Subway,Mains,3
+Pepperoni,Pizza,324.0,850,35.0,14.0,0.0,80,1740,95,4.0,8,34,Subway,Mains,2
+Sausage,Pizza,335.0,870,37.0,14.0,0.0,85,1740,96,4.0,8,34,Subway,Mains,2
+Ham & Jack (includes Pepperjack Cheese)**,Slider,68.0,140,4.0,2.0,0.0,20,530,18,0.0,2,9,Subway,Sides,0
+Italian Spice (includes American Cheese and MVP Parmesan Vinaigrette)**,Slider,70.0,240,15.0,5.0,0.0,30,740,19,0.0,2,9,Subway,Sides,1
+Little Cheesesteak (includes American Cheese and Baja Chipotle Southwest Sauce)**,Slider,68.0,160,7.0,3.0,0.0,20,430,19,0.5,2,8,Subway,Sides,0
+Turkey (includes Pepperjack Cheese and Mayonnaise)**,Slider,78.0,180,9.0,3.0,0.0,25,520,17,0.0,1,11,Subway,Sides,0
+Chocolate Chip,Dessert,45.0,210,10.0,5.0,0.0,10,120,30,0.5,18,2,Subway,Sides,2
+Oatmeal Raisin,Dessert,45.0,200,8.0,4.0,0.0,15,110,30,1.0,16,3,Subway,Sides,1
+Raspberry Cheesecake**,Dessert,45.0,210,9.0,5.0,0.0,15,115,29,0.0,16,2,Subway,Sides,2
+White Chip Macadamia Nut,Dessert,45.0,210,10.0,5.0,0.0,15,125,28,0.5,17,2,Subway,Sides,2
+Applesauce,Dessert,90.0,45,0.0,0.0,0.0,0,0,12,0.5,8,0,Subway,Sides,0
+Biscuit & Gravy,Dessert,133.0,340,18.0,10.0,0.0,5,1140,39,0.5,3,6,Subway,Sides,2
+Cinnamon Roll,Dessert,163.0,570,20.0,10.0,0.0,5,630,89,3.0,38,8,Subway,Sides,2
+Hash Browns,Dessert,108.0,190,9.0,3.0,0.0,0,600,24,3.0,1,3,Subway,Sides,0
+"Muffin, Apple Cinnamon",Dessert,113.0,450,24.0,4.0,0.0,60,370,53,2.0,31,6,Subway,Sides,1
+"Muffin, Blueberry Crumb",Dessert,113.0,410,17.0,4.0,0.0,40,440,59,2.0,33,5,Subway,Sides,1
+"Muffin, Double Chocolate",Dessert,113.0,550,31.0,8.0,0.0,65,420,61,3.0,41,6,Subway,Sides,2
+Beef Chili with Beans,Soup,251.0,360,22.0,8.0,1.0,70,800,21,4.0,6,21,Subway,Sides,3
+Broccoli Cheddar,Soup,227.0,170,9.0,5.0,0.0,25,690,18,1.0,4,5,Subway,Sides,1
+Chicken Noodle,Soup,227.0,100,3.0,1.0,0.0,25,780,12,1.0,2,6,Subway,Sides,1
+Loaded Baked Potato with Bacon,Soup,227.0,180,11.0,6.0,0.0,35,770,15,1.0,3,5,Subway,Sides,2
+Egg McMuffin,Breakfast,136.0,300,13.0,5.0,0.0,260,750,31,4.0,3,17,McDonalds,Breakfast,2
+Egg White Delight,Breakfast,135.0,250,8.0,3.0,0.0,25,770,30,4.0,3,18,McDonalds,Breakfast,1
+Sausage McMuffin,Breakfast,111.0,370,23.0,8.0,0.0,45,780,29,4.0,2,14,McDonalds,Breakfast,2
+Sausage McMuffin with Egg,Breakfast,161.0,450,28.0,10.0,0.0,285,860,30,4.0,2,21,McDonalds,Breakfast,3
+Sausage McMuffin with Egg Whites,Breakfast,161.0,400,23.0,8.0,0.0,50,880,30,4.0,2,21,McDonalds,Breakfast,2
+Steak & Egg McMuffin,Breakfast,185.0,430,23.0,9.0,1.0,300,960,31,4.0,3,26,McDonalds,Breakfast,4
+"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",Breakfast,150.0,460,26.0,13.0,0.0,250,1300,38,2.0,3,19,McDonalds,Breakfast,3
+"Bacon, Egg & Cheese Biscuit (Large Biscuit)",Breakfast,164.0,520,30.0,14.0,0.0,250,1410,43,3.0,4,19,McDonalds,Breakfast,3
+"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",Breakfast,153.0,410,20.0,11.0,0.0,35,1300,36,2.0,3,20,McDonalds,Breakfast,2
+"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",Breakfast,167.0,470,25.0,12.0,0.0,35,1420,42,3.0,4,20,McDonalds,Breakfast,2
+Sausage Biscuit (Regular Biscuit),Breakfast,117.0,430,27.0,12.0,0.0,30,1080,34,2.0,2,11,McDonalds,Breakfast,2
+Sausage Biscuit (Large Biscuit),Breakfast,131.0,480,31.0,13.0,0.0,30,1190,39,3.0,3,11,McDonalds,Breakfast,2
+Sausage Biscuit with Egg (Regular Biscuit),Breakfast,163.0,510,33.0,14.0,0.0,250,1170,36,2.0,2,18,McDonalds,Breakfast,3
+Sausage Biscuit with Egg (Large Biscuit),Breakfast,177.0,570,37.0,15.0,0.0,250,1280,42,3.0,3,18,McDonalds,Breakfast,3
+Sausage Biscuit with Egg Whites (Regular Biscuit),Breakfast,167.0,460,27.0,12.0,0.0,35,1180,34,2.0,3,18,McDonalds,Breakfast,2
+Sausage Biscuit with Egg Whites (Large Biscuit),Breakfast,181.0,520,32.0,13.0,0.0,35,1290,40,3.0,3,18,McDonalds,Breakfast,2
+Southern Style Chicken Biscuit (Regular Biscuit),Breakfast,143.0,410,20.0,8.0,0.0,30,1180,41,2.0,3,17,McDonalds,Breakfast,2
+Southern Style Chicken Biscuit (Large Biscuit),Breakfast,157.0,470,24.0,9.0,0.0,30,1290,46,3.0,4,17,McDonalds,Breakfast,2
+Steak & Egg Biscuit (Regular Biscuit),Breakfast,201.0,540,32.0,16.0,1.0,280,1470,38,2.0,3,25,McDonalds,Breakfast,4
+"Bacon, Egg & Cheese McGriddles",Breakfast,174.0,460,21.0,9.0,0.0,250,1250,48,2.0,15,19,McDonalds,Breakfast,4
+"Bacon, Egg & Cheese McGriddles with Egg Whites",Breakfast,178.0,400,15.0,7.0,0.0,35,1250,47,2.0,16,20,McDonalds,Breakfast,3
+Sausage McGriddles,Breakfast,141.0,420,22.0,8.0,0.0,35,1030,44,2.0,15,11,McDonalds,Breakfast,3
+"Sausage, Egg & Cheese McGriddles",Breakfast,201.0,550,31.0,12.0,0.0,265,1320,48,2.0,15,20,McDonalds,Breakfast,4
+"Sausage, Egg & Cheese McGriddles with Egg Whites",Breakfast,205.0,500,26.0,10.0,0.0,50,1320,46,2.0,15,21,McDonalds,Breakfast,3
+"Bacon, Egg & Cheese Bagel",Breakfast,197.0,620,31.0,11.0,0.5,275,1480,57,3.0,7,30,McDonalds,Breakfast,3
+"Bacon, Egg & Cheese Bagel with Egg Whites",Breakfast,201.0,570,25.0,9.0,0.5,60,1480,55,3.0,8,30,McDonalds,Breakfast,2
+"Steak, Egg & Cheese Bagel",Breakfast,241.0,670,35.0,13.0,1.5,295,1510,56,3.0,7,33,McDonalds,Breakfast,4
+Big Breakfast (Regular Biscuit),Breakfast,269.0,740,48.0,17.0,0.0,555,1560,51,3.0,3,28,McDonalds,Breakfast,3
+Big Breakfast (Large Biscuit),Breakfast,283.0,800,52.0,18.0,0.0,555,1680,56,4.0,3,28,McDonalds,Breakfast,3
+Big Breakfast with Egg Whites (Regular Biscuit),Breakfast,272.0,640,37.0,14.0,0.0,35,1590,50,3.0,3,26,McDonalds,Breakfast,2
+Big Breakfast with Egg Whites (Large Biscuit),Breakfast,286.0,690,41.0,14.0,0.0,35,1700,55,4.0,4,26,McDonalds,Breakfast,2
+Big Breakfast with Hotcakes (Regular Biscuit),Breakfast,420.0,1090,56.0,19.0,0.0,575,2150,111,6.0,17,36,McDonalds,Breakfast,4
+Big Breakfast with Hotcakes (Large Biscuit),Breakfast,434.0,1150,60.0,20.0,0.0,575,2260,116,7.0,17,36,McDonalds,Breakfast,4
+Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),Breakfast,423.0,990,46.0,16.0,0.0,55,2170,110,6.0,17,35,McDonalds,Breakfast,3
+Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),Breakfast,437.0,1050,50.0,16.0,0.0,55,2290,115,7.0,18,35,McDonalds,Breakfast,3
+Hotcakes,Breakfast,151.0,350,9.0,2.0,0.0,20,590,60,3.0,14,8,McDonalds,Breakfast,1
+Hotcakes and Sausage,Breakfast,192.0,520,24.0,7.0,0.0,50,930,61,3.0,14,15,McDonalds,Breakfast,3
+Sausage Burrito,Breakfast,111.0,300,16.0,7.0,0.0,115,790,26,1.0,2,12,McDonalds,Breakfast,3
+Hash Brown,Breakfast,56.0,150,9.0,1.5,0.0,0,310,15,2.0,0,1,McDonalds,Breakfast,0
+Cinnamon Melts,Breakfast,114.0,460,19.0,9.0,0.0,15,370,66,3.0,32,6,McDonalds,Breakfast,2
+Fruit & Maple Oatmeal,Breakfast,251.0,290,4.0,1.5,0.0,5,160,58,5.0,32,5,McDonalds,Breakfast,1
+Fruit & Maple Oatmeal without Brown Sugar,Breakfast,251.0,260,4.0,1.5,0.0,5,115,49,5.0,18,5,McDonalds,Breakfast,1
+Big Mac,Beef & Pork,211.0,530,27.0,10.0,1.0,85,960,47,3.0,9,24,McDonalds,Mains,4
+Quarter Pounder with Cheese,Beef & Pork,202.0,520,26.0,12.0,1.5,95,1100,41,3.0,10,30,McDonalds,Mains,4
+Quarter Pounder with Bacon & Cheese,Beef & Pork,227.0,600,29.0,13.0,1.5,105,1440,48,3.0,12,37,McDonalds,Mains,5
+Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,235.0,610,31.0,13.0,1.5,105,1180,46,3.0,10,37,McDonalds,Mains,5
+Quarter Pounder Deluxe,Beef & Pork,244.0,540,27.0,11.0,1.5,85,960,45,3.0,9,29,McDonalds,Mains,4
+Double Quarter Pounder with Cheese,Beef & Pork,283.0,750,43.0,19.0,2.5,160,1280,42,3.0,10,48,McDonalds,Mains,5
+Hamburger,Beef & Pork,98.0,240,8.0,3.0,0.0,30,480,32,1.0,6,12,McDonalds,Mains,0
+Cheeseburger,Beef & Pork,113.0,290,11.0,5.0,0.5,45,680,33,2.0,7,15,McDonalds,Mains,1
+Double Cheeseburger,Beef & Pork,161.0,430,21.0,10.0,1.0,90,1040,35,2.0,7,24,McDonalds,Mains,3
+Bacon Clubhouse Burger,Beef & Pork,270.0,720,40.0,15.0,1.5,115,1470,51,4.0,14,39,McDonalds,Mains,5
+McDouble,Beef & Pork,147.0,380,17.0,8.0,1.0,75,840,34,2.0,7,22,McDonalds,Mains,3
+Bacon McDouble,Beef & Pork,161.0,440,22.0,10.0,1.0,90,1110,35,2.0,7,27,McDonalds,Mains,3
+Daily Double,Beef & Pork,190.0,430,22.0,9.0,1.0,80,760,34,2.0,7,22,McDonalds,Mains,2
+Jalapeño Double,Beef & Pork,159.0,430,23.0,9.0,1.0,80,1030,35,2.0,6,22,McDonalds,Mains,3
+McRib,Beef & Pork,208.0,500,26.0,10.0,0.0,70,980,44,3.0,11,22,McDonalds,Mains,3
+Premium Crispy Chicken Classic Sandwich,Chicken & Fish,213.0,510,22.0,3.5,0.0,45,990,55,3.0,10,24,McDonalds,Mains,2
+Premium Grilled Chicken Classic Sandwich,Chicken & Fish,200.0,350,9.0,2.0,0.0,65,820,42,3.0,8,28,McDonalds,Mains,1
+Premium Crispy Chicken Club Sandwich,Chicken & Fish,249.0,670,33.0,9.0,0.0,85,1410,58,3.0,11,36,McDonalds,Mains,3
+Premium Grilled Chicken Club Sandwich,Chicken & Fish,235.0,510,20.0,7.0,0.0,105,1250,44,3.0,9,40,McDonalds,Mains,4
+Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,230.0,610,28.0,6.0,0.0,70,1400,57,3.0,11,32,McDonalds,Mains,3
+Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,217.0,450,15.0,4.5,0.0,90,1230,43,3.0,9,36,McDonalds,Mains,3
+Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,284.0,750,38.0,10.0,0.5,90,1720,65,4.0,16,36,McDonalds,Mains,3
+Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,270.0,590,25.0,8.0,0.0,110,1560,51,4.0,14,40,McDonalds,Mains,4
+Southern Style Crispy Chicken Sandwich,Chicken & Fish,160.0,430,19.0,3.0,0.0,45,910,43,2.0,7,21,McDonalds,Mains,1
+McChicken,Chicken & Fish,143.0,360,16.0,3.0,0.0,35,800,40,2.0,5,14,McDonalds,Mains,1
+Bacon Cheddar McChicken,Chicken & Fish,171.0,480,24.0,7.0,0.0,65,1260,43,2.0,6,22,McDonalds,Mains,2
+Bacon Buffalo Ranch McChicken,Chicken & Fish,161.0,430,21.0,5.0,0.0,50,1260,41,2.0,6,20,McDonalds,Mains,2
+Buffalo Ranch McChicken,Chicken & Fish,148.0,360,16.0,3.0,0.0,35,990,40,2.0,5,14,McDonalds,Mains,1
+Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,316.0,630,32.0,9.0,0.5,80,1540,56,3.0,7,32,McDonalds,Mains,2
+Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,302.0,480,19.0,7.0,0.0,95,1370,42,3.0,6,36,McDonalds,Mains,2
+Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,310.0,610,31.0,8.0,0.5,65,1340,56,3.0,8,27,McDonalds,Mains,2
+Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,297.0,450,18.0,6.0,0.5,80,1170,42,3.0,6,30,McDonalds,Mains,2
+Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,314.0,670,33.0,8.0,0.5,60,1480,68,5.0,12,27,McDonalds,Mains,3
+Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,318.0,520,20.0,6.0,0.0,80,1320,55,5.0,10,31,McDonalds,Mains,3
+Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,304.0,540,23.0,4.5,0.0,50,1260,61,3.0,14,23,McDonalds,Mains,3
+Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,291.0,380,10.0,3.0,0.0,65,1090,47,3.0,12,27,McDonalds,Mains,2
+Chicken McNuggets (4 piece),Chicken & Fish,65.0,190,12.0,2.0,0.0,25,360,12,1.0,0,9,McDonalds,Mains,0
+Chicken McNuggets (6 piece),Chicken & Fish,97.0,280,18.0,3.0,0.0,40,540,18,1.0,0,13,McDonalds,Mains,0
+Chicken McNuggets (10 piece),Chicken & Fish,162.0,470,30.0,5.0,0.0,65,900,30,2.0,0,22,McDonalds,Mains,2
+Chicken McNuggets (20 piece),Chicken & Fish,323.0,940,59.0,10.0,0.0,135,1800,59,3.0,0,44,McDonalds,Mains,3
+Filet-O-Fish,Chicken & Fish,142.0,390,19.0,4.0,0.0,40,590,39,2.0,5,15,McDonalds,Mains,0
+Premium Bacon Ranch Salad (without Chicken),Salads,223.0,140,7.0,3.5,0.0,25,300,10,3.0,4,9,McDonalds,Sides,0
+Premium Bacon Ranch Salad with Crispy Chicken,Salads,255.0,380,21.0,6.0,0.0,70,860,22,2.0,5,25,McDonalds,Sides,2
+Premium Bacon Ranch Salad with Grilled Chicken,Salads,241.0,220,8.0,4.0,0.0,85,690,8,2.0,4,29,McDonalds,Sides,0
+Premium Southwest Salad (without Chicken),Salads,230.0,140,4.5,2.0,0.0,10,150,20,6.0,6,6,McDonalds,Sides,0
+Premium Southwest Salad with Crispy Chicken,Salads,348.0,450,22.0,4.5,0.0,50,850,42,7.0,12,23,McDonalds,Sides,3
+Premium Southwest Salad with Grilled Chicken,Salads,335.0,290,8.0,2.5,0.0,70,680,28,7.0,10,27,McDonalds,Sides,1
+Chipotle BBQ Snack Wrap (Crispy Chicken),Snacks & Sides,130.0,340,15.0,4.5,0.0,30,780,37,1.0,8,14,McDonalds,Sides,2
+Chipotle BBQ Snack Wrap (Grilled Chicken),Snacks & Sides,123.0,260,8.0,3.5,0.0,40,700,30,1.0,7,16,McDonalds,Sides,0
+Honey Mustard Snack Wrap (Crispy Chicken),Snacks & Sides,123.0,330,15.0,4.5,0.0,35,730,34,1.0,3,14,McDonalds,Sides,1
+Honey Mustard Snack Wrap (Grilled Chicken),Snacks & Sides,116.0,250,8.0,3.5,0.0,45,650,27,1.0,2,16,McDonalds,Sides,0
+Ranch Snack Wrap (Crispy Chicken),Snacks & Sides,128.0,360,20.0,5.0,0.0,40,810,32,1.0,3,15,McDonalds,Sides,2
+Ranch Snack Wrap (Grilled Chicken),Snacks & Sides,121.0,280,13.0,4.5,0.0,45,720,25,1.0,2,16,McDonalds,Sides,1
+Small French Fries,Snacks & Sides,75.0,230,11.0,1.5,0.0,0,130,30,2.0,0,2,McDonalds,Sides,0
+Medium French Fries,Snacks & Sides,111.0,340,16.0,2.5,0.0,0,190,44,4.0,0,4,McDonalds,Sides,0
+Large French Fries,Snacks & Sides,168.0,510,24.0,3.5,0.0,0,290,67,5.0,0,6,McDonalds,Sides,0
+Kids French Fries,Snacks & Sides,38.0,110,5.0,1.0,0.0,0,65,15,1.0,0,1,McDonalds,Sides,0
+Side Salad,Snacks & Sides,87.0,20,0.0,0.0,0.0,0,10,4,1.0,2,1,McDonalds,Sides,0
+Apple Slices,Snacks & Sides,34.0,15,0.0,0.0,0.0,0,0,4,0.0,3,0,McDonalds,Sides,0
+Fruit 'n Yogurt Parfait,Snacks & Sides,149.0,150,2.0,1.0,0.0,5,70,30,1.0,23,4,McDonalds,Sides,1
+Baked Apple Pie,Desserts,77.0,250,13.0,7.0,0.0,0,170,32,4.0,13,2,McDonalds,Sides,2
+Chocolate Chip Cookie,Desserts,33.0,160,8.0,3.5,0.0,10,90,21,1.0,15,2,McDonalds,Sides,1
+Oatmeal Raisin Cookie,Desserts,33.0,150,6.0,2.5,0.0,10,135,22,1.0,13,2,McDonalds,Sides,1
+Kids Ice Cream Cone,Desserts,29.0,45,1.5,1.0,0.0,5,20,7,0.0,6,1,McDonalds,Sides,0
+Hot Fudge Sundae,Desserts,179.0,330,9.0,7.0,0.0,25,170,53,1.0,48,8,McDonalds,Sides,2
+Hot Caramel Sundae,Desserts,182.0,340,8.0,5.0,0.0,30,150,60,0.0,43,7,McDonalds,Sides,2
+Strawberry Sundae,Desserts,178.0,280,6.0,4.0,0.0,25,85,49,0.0,45,6,McDonalds,Sides,1
+WHOPPER Sandwich,WHOPPER SANDWICHES,270.0,660,40.0,12.0,1.5,90,980,49,2.0,11,28,Burger King,Mains,4
+WHOPPER Sandwich with Cheese,WHOPPER SANDWICHES,292.0,740,46.0,16.0,2.0,115,1340,50,2.0,11,32,Burger King,Mains,5
+Bacon & Cheese WHOPPER Sandwich,WHOPPER SANDWICHES,303.0,790,51.0,17.0,2.0,125,1560,50,2.0,11,35,Burger King,Mains,5
+DOUBLE WHOPPER Sandwich,WHOPPER SANDWICHES,354.0,900,58.0,20.0,3.0,175,1050,49,2.0,11,48,Burger King,Mains,5
+DOUBLE WHOPPER Sandwich with Cheese,WHOPPER SANDWICHES,377.0,980,64.0,24.0,3.0,195,1410,50,2.0,11,52,Burger King,Mains,5
+TRIPLE WHOPPER Sandwich,WHOPPER SANDWICHES,438.0,1130,75.0,28.0,4.0,255,1120,49,2.0,11,67,Burger King,Mains,5
+TRIPLE WHOPPER Sandwich with Cheese,WHOPPER SANDWICHES,461.0,1220,82.0,32.0,4.5,280,1470,50,2.0,11,71,Burger King,Mains,5
+WHOPPER JR.  Sandwich,WHOPPER SANDWICHES,134.0,310,18.0,5.0,0.5,40,390,27,1.0,7,13,Burger King,Mains,1
+BACON KING Sandwich,FLAME BROILED BURGERS,356.0,1150,79.0,31.0,3.5,240,2150,49,2.0,10,61,Burger King,Mains,5
+Cheddar BACON KING Sandwich,FLAME BROILED BURGERS,366.0,1190,84.0,33.0,3.5,235,1930,50,2.0,11,64,Burger King,Mains,5
+Single Quarter Pound KING Sandwich,FLAME BROILED BURGERS,231.0,580,29.0,13.0,1.5,105,1310,49,2.0,10,32,Burger King,Mains,5
+Double Quarter Pound KING Sandwich,FLAME BROILED BURGERS,338.0,900,54.0,25.0,3.0,210,1740,50,2.0,11,56,Burger King,Mains,5
+Single STACKER KING,FLAME BROILED BURGERS,223.0,700,42.0,16.0,2.0,125,1360,48,1.0,10,35,Burger King,Mains,5
+Double STACKER KING,FLAME BROILED BURGERS,334.0,1050,68.0,28.0,3.5,235,1870,49,1.0,11,61,Burger King,Mains,5
+IMPOSSIBLE WHOPPER Sandwich**,FLAME BROILED BURGERS,285.0,630,34.0,11.0,0.0,10,1080,58,4.0,12,25,Burger King,Mains,3
+Hamburger,FLAME BROILED BURGERS,99.0,240,10.0,3.5,0.5,35,380,26,1.0,6,13,Burger King,Mains,0
+Cheeseburger,FLAME BROILED BURGERS,111.0,280,13.0,6.0,0.5,45,560,27,1.0,7,15,Burger King,Mains,1
+Double Hamburger,FLAME BROILED BURGERS,136.0,350,18.0,7.0,1.0,70,410,26,1.0,6,21,Burger King,Mains,2
+Double Cheeseburger,FLAME BROILED BURGERS,148.0,390,21.0,9.0,1.5,85,590,27,1.0,7,23,Burger King,Mains,2
+Extra Long Cheeseburger,FLAME BROILED BURGERS,226.0,630,37.0,14.0,1.5,100,1050,45,2.0,9,29,Burger King,Mains,4
+Bacon Cheeseburger,FLAME BROILED BURGERS,118.0,320,16.0,7.0,0.5,55,710,27,1.0,7,17,Burger King,Mains,1
+Bacon Double Cheeseburger,FLAME BROILED BURGERS,155.0,420,24.0,10.0,1.5,90,740,27,1.0,7,25,Burger King,Mains,2
+Crispy Chicken Sandwich,CHICKEN & MORE,228.0,670,41.0,7.0,0.0,60,1080,54,2.0,8,23,Burger King,Mains,2
+Spicy Crispy Chicken Sandwich,CHICKEN & MORE,242.0,700,42.0,7.0,0.0,65,1140,57,3.0,8,25,Burger King,Mains,2
+Original Chicken Sandwich,CHICKEN & MORE,219.0,660,40.0,7.0,0.0,75,1170,48,2.0,5,28,Burger King,Mains,2
+Bacon & Cheese Crispy Chicken Sandwich,CHICKEN & MORE,262.0,800,52.0,13.0,1.0,95,1650,55,2.0,8,30,Burger King,Mains,3
+BBQ Bacon Crispy Chicken Sandwich,CHICKEN & MORE,249.0,790,49.0,10.0,0.5,80,1630,60,2.0,13,28,Burger King,Mains,3
+Crispy Chicken Jr.,CHICKEN & MORE,142.0,450,30.0,5.0,0.0,30,780,34,2.0,5,12,Burger King,Mains,2
+Spicy Crispy Chicken Jr.,CHICKEN & MORE,142.0,390,21.0,3.5,0.0,30,740,37,2.0,6,12,Burger King,Mains,0
+Chicken Nuggets- 4pc,CHICKEN & MORE,58.0,170,11.0,1.5,0.0,25,310,11,1.0,0,8,Burger King,Mains,0
+Chicken Nuggets- 6pc,CHICKEN & MORE,88.0,260,16.0,2.5,0.0,35,470,16,1.0,0,12,Burger King,Mains,0
+Chicken Nuggets- 10pc,CHICKEN & MORE,146.0,430,27.0,4.5,0.0,55,780,27,2.0,0,20,Burger King,Mains,2
+Chicken Nuggets- 20pc,CHICKEN & MORE,292.0,860,54.0,9.0,0.0,115,1570,53,3.0,1,39,Burger King,Mains,3
+Spicy Chicken Nuggets- 4pc,CHICKEN & MORE,66.0,210,15.0,3.0,0.0,20,570,11,2.0,0,8,Burger King,Mains,0
+Spicy Chicken Nuggets- 6pc,CHICKEN & MORE,99.0,320,22.0,4.5,0.0,35,850,17,3.0,0,12,Burger King,Mains,2
+Spicy Chicken Nuggets- 10 pc,CHICKEN & MORE,165.0,530,37.0,7.0,0.0,55,1420,28,4.0,1,20,Burger King,Mains,2
+Spicy Chicken Nuggets- 20 pc,CHICKEN & MORE,330.0,1050,74.0,15.0,0.0,110,2840,56,9.0,1,40,Burger King,Mains,3
+Chicken Fries - 9 pc.,CHICKEN & MORE,91.0,280,17.0,2.5,0.0,35,850,20,1.0,1,13,Burger King,Mains,1
+Crispy Taco,CHICKEN & MORE,76.0,170,9.0,3.0,0.0,10,410,19,2.0,1,5,Burger King,Mains,0
+BIG FISH Sandwich,CHICKEN & MORE,188.0,510,28.0,4.5,0.0,30,1180,51,2.0,7,16,Burger King,Mains,2
+Garden Chicken Salad with Crispy Chicken - no dressing,SALADS & SIDES,287.0,440,25.0,7.0,0.0,75,930,31,3.0,4,25,Burger King,Sides,2
+Club Salad with Crispy Chicken - no dressing,SALADS & SIDES,308.0,540,33.0,10.0,0.0,95,1380,31,3.0,5,31,Burger King,Sides,2
+Garden Side Salad - w/o dressing,SALADS & SIDES,99.0,60,4.0,2.5,0.0,10,95,3,1.0,2,4,Burger King,Sides,0
+Ken's Ranch Dressing,SALADS & SIDES,43.0,260,28.0,4.0,0.0,10,240,2,0.0,2,1,Burger King,Sides,0
+Ken's Golden Italian Dressing,SALADS & SIDES,43.0,160,17.0,2.5,0.0,0,380,4,0.0,3,0,Burger King,Sides,0
+Ken's Lite Honey Balsamic Vinaigrette,SALADS & SIDES,43.0,120,8.0,1.0,0.0,0,220,14,0.0,11,0,Burger King,Sides,1
+Buttery Garlic Croutons- Packet,SALADS & SIDES,14.0,60,2.5,0.0,0.0,10,180,9,0.0,1,1,Burger King,Sides,0
+Onion Rings - value,SALADS & SIDES,43.0,150,8.0,1.5,0.0,0,400,19,1.0,2,1,Burger King,Sides,0
+Onion Rings - small,SALADS & SIDES,91.0,320,16.0,3.0,0.0,0,840,41,3.0,4,3,Burger King,Sides,1
+Onion Rings - medium,SALADS & SIDES,117.0,410,21.0,3.5,0.0,0,1080,53,4.0,5,4,Burger King,Sides,1
+Onion Rings - large,SALADS & SIDES,142.0,500,25.0,4.5,0.0,0,1310,64,5.0,7,5,Burger King,Sides,2
+French Fries - value (unsalted),SALADS & SIDES,89.0,220,9.0,1.5,0.0,0,210,34,3.0,1,2,Burger King,Sides,0
+French Fries - small  (unsalted),SALADS & SIDES,128.0,320,13.0,2.0,0.0,0,300,49,5.0,1,4,Burger King,Sides,0
+French Fries - medium (unsalted),SALADS & SIDES,153.0,380,16.0,2.0,0.0,0,360,58,6.0,1,4,Burger King,Sides,0
+French Fries - large (unsalted),SALADS & SIDES,173.0,430,18.0,2.5,0.0,0,410,66,7.0,2,5,Burger King,Sides,0
+Kids Oatmeal,KING JR MEALS Entrees ,167.0,170,3.0,1.5,0.0,5,260,32,3.0,12,4,Burger King,Mains,1
+Chicken Nuggets- 4pc,KING JR MEALS Entrees ,58.0,170,11.0,1.5,0.0,25,310,11,1.0,0,8,Burger King,Mains,0
+Chicken Nuggets- 6pc,KING JR MEALS Entrees ,88.0,260,16.0,2.5,0.0,35,470,16,1.0,0,12,Burger King,Mains,0
+Hamburger,KING JR MEALS Entrees ,99.0,240,10.0,3.5,0.5,35,380,26,1.0,6,13,Burger King,Mains,0
+Cheeseburger,KING JR MEALS Entrees ,111.0,280,13.0,6.0,0.5,45,560,27,1.0,7,15,Burger King,Mains,1
+Dutch Apple Pie,KING JR MEALS Desserts,107.0,340,14.0,6.0,0.0,0,310,51,1.0,25,3,Burger King,Sides,2
+HERSHEY'S Sundae Pie,KING JR MEALS Desserts,79.0,310,19.0,12.0,0.0,10,220,32,1.0,22,3,Burger King,Sides,2
+Pie made with TWIX,KING JR MEALS Desserts,102.0,370,20.0,13.0,0.0,10,330,45,1.0,30,4,Burger King,Sides,2
+OREO Cookie Cheesecake,KING JR MEALS Desserts,92.0,350,18.0,8.0,0.0,35,310,41,1.0,25,6,Burger King,Sides,2
+Soft Serve Cone,KING JR MEALS Desserts,120.0,190,4.5,3.0,0.0,20,150,32,0.0,24,5,Burger King,Sides,1
+Soft Serve Cup,KING JR MEALS Desserts,115.0,170,4.5,3.0,0.0,20,150,28,0.0,24,5,Burger King,Sides,1
+HERSHEY's Chocolate Sundae,KING JR MEALS Desserts,149.0,260,5.0,3.0,0.0,20,160,49,1.0,43,5,Burger King,Sides,1
+Caramel Sundae,KING JR MEALS Desserts,137.0,240,5.0,3.5,0.0,20,210,42,0.0,33,5,Burger King,Sides,1
+Chocolate Chip Cookies (each),KING JR MEALS Desserts,38.0,160,8.0,4.0,0.0,10,125,24,1.0,15,2,Burger King,Sides,1
+CROISSAN'WICH Egg & Cheese,BREAKFAST,125.0,340,18.0,8.0,0.0,160,610,29,1.0,4,12,Burger King,Breakfast,2
+"CROISSAN'WICH Sausage, Egg & Cheese",BREAKFAST,169.0,500,33.0,13.0,0.0,195,930,30,1.0,4,19,Burger King,Breakfast,3
+"CROISSAN'WICH Ham, Egg & Cheese",BREAKFAST,156.0,370,19.0,8.0,0.0,175,1030,30,1.0,5,17,Burger King,Breakfast,3
+"CROISSAN'WICH Bacon, Egg & Cheese",BREAKFAST,132.0,370,21.0,9.0,0.0,170,760,30,1.0,4,14,Burger King,Breakfast,2
+Fully Loaded CROISSAN'WICH,BREAKFAST,218.0,610,40.0,17.0,0.5,225,1680,31,1.0,5,28,Burger King,Breakfast,3
+Double CROISSAN'WICH with Sausage & Bacon,BREAKFAST,187.0,580,40.0,16.0,0.5,215,1260,31,1.0,5,23,Burger King,Breakfast,3
+Double CROISSAN'WICH with Sausage,BREAKFAST,224.0,710,52.0,20.0,0.5,240,1420,31,1.0,5,29,Burger King,Breakfast,3
+Fully Loaded Biscuit,BREAKFAST,238.0,640,45.0,20.0,0.0,225,2190,31,1.0,4,28,Burger King,Breakfast,3
+"Ham, Egg, & Cheese Biscuit",BREAKFAST,176.0,400,24.0,12.0,0.0,175,1550,29,1.0,3,17,Burger King,Breakfast,3
+"Sausage, Egg, & Cheese Biscuit",BREAKFAST,189.0,530,38.0,17.0,0.0,195,1440,29,1.0,3,19,Burger King,Breakfast,3
+"Bacon, Egg & Cheese Biscuit",BREAKFAST,152.0,400,26.0,13.0,0.0,170,1270,29,1.0,3,13,Burger King,Breakfast,3
+Sausage Biscuit,BREAKFAST,121.0,420,28.0,6.0,0.0,35,1050,28,1.0,2,12,Burger King,Breakfast,2
+Breakfast Burrito Jr.,BREAKFAST,143.0,370,23.0,8.0,0.0,150,930,27,3.0,2,15,Burger King,Breakfast,3
+EGG-NORMOUS BURRITO,BREAKFAST,310.0,780,42.0,15.0,0.0,355,1960,68,3.0,4,32,Burger King,Breakfast,3
+BK Ultimate Breakfast Platter,BREAKFAST,390.0,930,44.0,11.0,0.0,390,2230,110,4.0,40,24,Burger King,Breakfast,4
+NY Ultimate Platter (Regional menu item),BREAKFAST,400.0,900,46.0,12.0,0.0,380,1760,95,5.0,31,25,Burger King,Breakfast,4
+Pancake and Sausage platter,BREAKFAST,217.0,610,31.0,9.0,0.0,80,1010,72,1.0,30,12,Burger King,Breakfast,3
+Hash Browns - small,BREAKFAST,84.0,250,16.0,3.5,0.0,0,580,24,3.0,0,2,Burger King,Breakfast,0
+Hash Browns - medium,BREAKFAST,169.0,500,33.0,7.0,0.0,0,1140,48,7.0,0,4,Burger King,Breakfast,2
+Hash Browns - large,BREAKFAST,225.0,670,44.0,9.0,0.0,0,1530,65,9.0,0,5,Burger King,Breakfast,2
+French Toast Sticks (3 piece),BREAKFAST,65.0,230,11.0,2.0,0.0,0,260,29,1.0,8,3,Burger King,Breakfast,0
+French Toast Sticks (5 piece),BREAKFAST,109.0,380,18.0,3.0,0.0,0,430,49,2.0,13,5,Burger King,Breakfast,1
